@@ -1,2 +1,2 @@
 # demo-project
-A demo project with git!
+A demo project for git!
